@@ -30,6 +30,6 @@
             <a href="/artisan">artisan</a>
         </div>
     </header>
-    <h1>Hello world</h1>
+    <h1>Hello by artisan</h1>
 </body>
 </html>
