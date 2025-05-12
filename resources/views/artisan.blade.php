@@ -18,6 +18,7 @@
         color: #fff;
         text-decoration: none;
         font-weight: bold;
+        padding: 0 20px;
     }
 
     header a:hover {
@@ -27,7 +28,8 @@
 <body>
     <header>
         <div>
-            <a href="/artisan">artisan</a>
+            <a href={{ route("home") }}>home</a>
+            <a href={{ route("artisan") }}>artisan</a>
         </div>
     </header>
     <h1>Hello by artisan</h1>
